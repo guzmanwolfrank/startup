@@ -19,6 +19,11 @@ startup_programs.py.
         
 ![cdcommand](https://user-images.githubusercontent.com/29739578/229164247-830bd7c1-3c17-479c-8cd1-989834ddff3a.jpg)
 
+## Run the Python Script
+4.  Once you have located your file location and set it on the command prompt, run the file by typing the following script and pressing enter:
+        
+        Python startup_programs.py 
+
 ![runprog](https://user-images.githubusercontent.com/29739578/229164690-3f4a4a93-54ed-483e-8fb2-70007ccb196a.jpg)
 
 
