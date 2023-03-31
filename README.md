@@ -2,7 +2,17 @@
 
 ## Are you tired of pesky programs that open when you startup your computer? 
 
-1.  Visit https://github.com/guzmanwolfrank/startup/blob/main/startup_programs.py and copy and run the .py file in your IDE or Shell  (VS Code, pycharm, ms powershell)  
+
+##Copy code from my github repositories. 
+
+1.  Visit https://github.com/guzmanwolfrank/startup/blob/main/startup_programs.py and copy the code and save it in a text editor like notepad and name the file 
+startup_programs.py. 
+
+## Open Command Prompt 
+2.  Open the Run dialog box. The Run dialog box, which you can open using the keyboard shortcut Win + R, allows you to open any Windows program by entering its name. Enter “cmd” and click “OK” to open Command Prompt.
+![run](https://user-images.githubusercontent.com/29739578/229162515-c7f56abb-6a73-4013-8455-e1b8f7abe44e.jpg)
+
+4.  Open the command prompt 
 
 2.  Choose which file you want to remove from starting up when you start your computer. 
 
