@@ -1,6 +1,6 @@
 # startup
 
-## Are you tired of pesky programs that open when you startup your computer? 
+Are you tired of pesky programs that open when you startup your computer? 
 
 
 ## Copy code from my github repositories. 
