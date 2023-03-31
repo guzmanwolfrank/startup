@@ -7,7 +7,7 @@
   
   pyinstaller --onefile startup_programs.py
 
-  ![pyinstbeta](https://user-images.githubusercontent.com/29739578/229137064-b027d08b-8b64-4330-8cd1-f53dd2f30ea4.jpg)
+
 
   
 ## Removes selected programs from windows automatic startup. 
