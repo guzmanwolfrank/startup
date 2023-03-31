@@ -38,7 +38,7 @@ The program will run and you will see a list of files/apps that open automatical
 ![startupcommandprompt](https://user-images.githubusercontent.com/29739578/229161551-1aaea283-cefe-46b9-9432-997aa80d3ca9.jpg)
 
 
-## 6. Save as a .exe file 
+## 6. Pip Install pyinstaller 
 
         If you want to save this program as a downloadable application/.exe file, 
         open command prompt and install pysintaller using pip command:
