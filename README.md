@@ -12,7 +12,15 @@ startup_programs.py.
 2.  Open the Run dialog box. The Run dialog box, which you can open using the keyboard shortcut Win + R, allows you to open any Windows program by entering its name. Enter “cmd” and click “OK” to open Command Prompt.
 ![run](https://user-images.githubusercontent.com/29739578/229162515-c7f56abb-6a73-4013-8455-e1b8f7abe44e.jpg)
 
-4.  Open the command prompt 
+## Navigate to File Location 
+3.  Navigate on the command prompt to the file location.  
+        
+        You can use the cd command to change drives towards the destination while using command prompt. 
+        
+![cdcommand](https://user-images.githubusercontent.com/29739578/229164247-830bd7c1-3c17-479c-8cd1-989834ddff3a.jpg)
+
+![runprog](https://user-images.githubusercontent.com/29739578/229164690-3f4a4a93-54ed-483e-8fb2-70007ccb196a.jpg)
+
 
 2.  Choose which file you want to remove from starting up when you start your computer. 
 
