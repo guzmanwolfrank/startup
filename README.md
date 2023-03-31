@@ -39,14 +39,16 @@ The program will run and you will see a list of files/apps that open automatical
 
 ## 6. Save as a .exe file 
 
-        If you want to save this program as a downloadable application/.exe file,  open command prompt and install pysintaller using pip command:
+        If you want to save this program as a downloadable application/.exe file, 
+        open command prompt and install pysintaller using pip command:
   
         pip install pyinstaller 
     
     
 ## 7. Save as a .exe file.
 
-        After installing pyinstaller to your source folder, make the program into an executable file (.exe)-- type the following script in your command prompt:
+        After installing pyinstaller to your source folder, 
+        make the program into an executable file (.exe)-- type the following script in your command prompt:
   
         pyinstaller --onefile startup_programs.py
 
@@ -54,4 +56,6 @@ The program will run and you will see a list of files/apps that open automatical
 
 
 
-## 8.  The new .exe file should be saved in the 'dist' folder within your Source file folder.  The source file folder is where you saved your python script, downloaded your pyinstaller module using pip install to, and should also contain your 'dist' folder.  
+## 8.  The new .exe file should be saved in the 'dist' folder within your Source file folder.  
+
+        The source file folder is where you saved your python script, downloaded your pyinstaller module using pip install to, and should also contain your 'dist' folder.  
