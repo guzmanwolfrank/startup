@@ -3,9 +3,12 @@
 ## Are you tired of pesky programs that open when you startup your computer? 
 
 1.  Visit https://github.com/guzmanwolfrank/startup/blob/main/startup_programs.py and copy and run the .py file in your IDE or Shell  (VS Code, pycharm, ms powershell)  
-# 
-3.  Choose which file you want to remove from starting up when you start your computer. 
-#
+
+2.  Choose which file you want to remove from starting up when you start your computer. 
+
+![startupcommandprompt](https://user-images.githubusercontent.com/29739578/229161551-1aaea283-cefe-46b9-9432-997aa80d3ca9.jpg)
+
+
 3.  If you want to have this file as an executable file, open command prompt and install pysintaller using pip command:
   
     pip install pyinstaller 
