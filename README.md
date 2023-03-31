@@ -22,9 +22,8 @@ startup_programs.py.
 ## Run the Python Script
 4.  Once you have located your file location and set it on the command prompt, run the file by typing the following script and pressing enter:
         
-        Python startup_programs.py 
+        python startup_programs.py 
 
-![runprog](https://user-images.githubusercontent.com/29739578/229164690-3f4a4a93-54ed-483e-8fb2-70007ccb196a.jpg)
 
 The program will run and you will see a list of files/apps that open automatically every time you turn your windows pc on:
 
