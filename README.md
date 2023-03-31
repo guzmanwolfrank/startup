@@ -1,6 +1,7 @@
-# startup
+# Instructions
 
-Are you tired of pesky programs that open when you startup your computer? 
+Are you tired of pesky programs that open when you startup your computer? Simply follow the instructions below and create a program
+that allows you to choose which files you do not want to open automatically on startup. 
 
 
 ## 1. Copy code from my github repositories. 
