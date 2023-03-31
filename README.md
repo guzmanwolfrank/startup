@@ -3,7 +3,7 @@
 ## Are you tired of pesky programs that open when you startup your computer? 
 
 
-##Copy code from my github repositories. 
+## Copy code from my github repositories. 
 
 1.  Visit https://github.com/guzmanwolfrank/startup/blob/main/startup_programs.py and copy the code and save it in a text editor like notepad and name the file 
 startup_programs.py. 
