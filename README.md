@@ -49,4 +49,4 @@ list on the command prompt screen.  Press Enter.
 
 
 
-![Screenshot 2023-03-31 093630](https://user-images.githubusercontent.com/29739578/229135223-60005d5b-24d4-4bc9-8a81-f3b92353aae9.png)
+7.  The new .exe file should be saved in the 'dist' folder within your Source file folder.  The source file folder is where you saved your python script, downloaded your pyinstaller module using pip install to, and should also contain your 'dist' folder.
