@@ -26,6 +26,10 @@ startup_programs.py.
 
 ![runprog](https://user-images.githubusercontent.com/29739578/229164690-3f4a4a93-54ed-483e-8fb2-70007ccb196a.jpg)
 
+The program will run and you will see a list of files/apps that open automatically every time you turn your windows pc on:
+
+![runprog](https://user-images.githubusercontent.com/29739578/229165589-23c9371a-aee6-4fad-927d-aab1a3be45a9.jpg)
+
 
 2.  Choose which file you want to remove from starting up when you start your computer. 
 
