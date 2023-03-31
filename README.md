@@ -1,6 +1,6 @@
 # startup
 
-## Are you tired of pesky programs that open on windows 11 or 10 startup?
+## Are you tired of pesky programs that open when you startup your computer? 
 
   Try running this program from your command prompt by typing 
   the following script:
