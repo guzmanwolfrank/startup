@@ -25,7 +25,7 @@ startup_programs.py.
         python startup_programs.py 
 
 
-The program will run and you will see a list of files/apps that open automatically every time you turn your windows pc on:
+The program will run and you will see a list of files/apps that open automatically every time you turn on your windows pc:
 
 ![runprog](https://user-images.githubusercontent.com/29739578/229165589-23c9371a-aee6-4fad-927d-aab1a3be45a9.jpg)
 
