@@ -2,7 +2,13 @@ Create a program that allows you to choose which files you do not want to open a
 
 
     Are you tired of pesky programs that open when you start up your computer? 
-    Simply follow the instructions located at:  
+    Simply follow the instructions located at:  https://github.com/guzmanwolfrank/startup/blob/main/Instructions.md
 
 
 
+![startupscript](https://user-images.githubusercontent.com/29739578/229172981-32b4bfd5-ddf4-4bdf-bfb0-e176160444a4.jpg)
+
+
+
+
+![runprog](https://user-images.githubusercontent.com/29739578/229173025-95577ed1-678b-4e2f-9af2-c102852be1d1.jpg)
