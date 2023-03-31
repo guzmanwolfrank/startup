@@ -1,8 +1,12 @@
 # startup
 
 ## Are you tired of pesky programs that open when you startup your computer? 
-
-  Try running this program from your command prompt by typing 
+  First open command prompt and install pysintaller using pip command:
+  
+    pip install pyinstaller 
+    
+    
+  To make this an executable file (.exe)-- try running this program from your command prompt by typing 
   the following script:
   
   pyinstaller --onefile startup_programs.py
